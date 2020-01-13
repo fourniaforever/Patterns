@@ -1,0 +1,13 @@
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\obj\Debug\Facad.csprojAssemblyReference.cache
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\obj\Debug\Facad.csproj.CoreCompileInputs.cache
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\bin\Debug\Facad.exe.config
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\bin\Debug\Facad.exe
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\bin\Debug\Facad.pdb
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\obj\Debug\Facad.exe
+C:\Users\balas\Desktop\3 курс\ООП\Facad\Facad\obj\Debug\Facad.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\bin\Debug\Facad.exe.config
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\bin\Debug\Facad.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\bin\Debug\Facad.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\obj\Debug\Facad.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\obj\Debug\Facad.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Facad\Facad\obj\Debug\Facad.pdb
