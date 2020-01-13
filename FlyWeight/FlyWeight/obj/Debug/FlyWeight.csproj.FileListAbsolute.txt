@@ -1,0 +1,13 @@
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\balas\Desktop\3 курс\ООП\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\fourn\OneDrive\Рабочий стол\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb

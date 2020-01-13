@@ -1,0 +1,13 @@
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\balas\Desktop\3 курс\ООП\Builder\Builder\obj\Debug\Builder.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Builder\Builder\obj\Debug\Builder.pdb

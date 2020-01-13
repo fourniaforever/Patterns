@@ -1,0 +1,13 @@
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\balas\Desktop\3 курс\ООП\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.pdb

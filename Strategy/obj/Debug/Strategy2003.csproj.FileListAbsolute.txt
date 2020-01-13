@@ -1,0 +1,5 @@
+C:\Users\fourn\OneDrive\Рабочий стол\Strategy\bin\Debug\Strategy.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Strategy\bin\Debug\Strategy.pdb
+C:\Users\fourn\OneDrive\Рабочий стол\Strategy\obj\Debug\Strategy2003.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Рабочий стол\Strategy\obj\Debug\Strategy.exe
+C:\Users\fourn\OneDrive\Рабочий стол\Strategy\obj\Debug\Strategy.pdb
