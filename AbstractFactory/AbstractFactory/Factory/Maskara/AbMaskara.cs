@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AbstractFactory.Factory.Chemicals
+namespace AbstractFactory.Factory.Maskara
 {
-    abstract class AbChemicals
+    abstract class AbMaskara
     {
+        public abstract void Interact();
     }
 }

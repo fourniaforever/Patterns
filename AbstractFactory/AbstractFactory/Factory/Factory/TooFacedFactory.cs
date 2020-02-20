@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using AbstractFactory.Factory.Chemicals;
+using AbstractFactory.Factory.Maskara;
 using AbstractFactory.Factory.Lipstick;
 namespace AbstractFactory.Factory.Factory
 {
@@ -14,10 +14,10 @@ namespace AbstractFactory.Factory.Factory
             Console.WriteLine("Creating TooFacedLipstick...");
             return new TooFacedLipstick();
         }
-        public override AbChemicals CreateChemicals()
+        public override AbMaskara CreateMaskara()
         {
-            Console.WriteLine("Creating TooFacedChemicals...");
-            return new TooFacedCh();
+            Console.WriteLine("Creating TooFacedMaskara...");
+            return new TooFacedM();
         }
 
     }

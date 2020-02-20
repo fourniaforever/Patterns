@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AbstractFactory.Factory.Lipstick;
-using AbstractFactory.Factory.Chemicals;
+using AbstractFactory.Factory.Maskara;
 namespace AbstractFactory.Factory.Factory
 {
     class LimeCrimeFactory:AFactory
@@ -14,10 +14,10 @@ namespace AbstractFactory.Factory.Factory
             Console.WriteLine("Creating LimeCrimeLipstick...");
             return new LimeCrimeLipstick();
         }
-        public override AbChemicals CreateChemicals()
+        public override AbMaskara CreateMaskara()
         {
-            Console.WriteLine("Creating LimeCrimeChemicals...");
-            return new LimeCrimeCh();
+            Console.WriteLine("Creating LimeCrimeMaskara...");
+            return new LimeCrimeM();
         }
 
     }

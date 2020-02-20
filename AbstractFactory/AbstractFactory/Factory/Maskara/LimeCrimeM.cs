@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-namespace AbstractFactory.Factory.Lipstick
+
+namespace AbstractFactory.Factory.Maskara
 {
-    class LimeCrimeLipstick: AbLipstick
+    class LimeCrimeM:AbMaskara
     {
         public override void Interact()
         {
-            Console.WriteLine("Creating lipstick");
+            Console.WriteLine("Creating maskara");
         }
     }
 }

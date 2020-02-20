@@ -16,17 +16,17 @@ namespace Facad
             var shadow = new Eyeshadow();
             var lipstick = new Lipstick();
 
-            var washingMachine = new Face(found, blush, lipstick,shadow);
+            var face = new Face(found, blush, lipstick,shadow);
 
             //Cool
             Console.WriteLine("Cool tone");
-            washingMachine.MakeupCoolTone();
+            face.MakeupCoolTone();
 
             Console.WriteLine();
 
             //Warm
             Console.WriteLine("Warm");
-            washingMachine.MakeupWarmTone();
+            face.MakeupWarmTone();
             Console.ReadLine();
         }
     }

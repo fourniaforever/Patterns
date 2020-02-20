@@ -11,3 +11,9 @@ C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\bin\Debug\Adapte
 C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
 C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.exe
 C:\Users\fourn\OneDrive\Рабочий стол\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\fourn\OneDrive\Документы\Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb

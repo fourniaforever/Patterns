@@ -52,10 +52,10 @@
     <Compile Include="Factory\Factory\TooFacedFactory.cs" />
     <Compile Include="Factory\Factory\LimeCrimeFactory.cs" />
     <Compile Include="Factory\Factory\EsteeLauderFactory.cs" />
-    <Compile Include="Factory\Chemicals\AbChemicals.cs" />
-    <Compile Include="Factory\Chemicals\EsteeLauderCh.cs" />
-    <Compile Include="Factory\Chemicals\LimeCrimeCh.cs" />
-    <Compile Include="Factory\Chemicals\TooFacedCh.cs" />
+    <Compile Include="Factory\Maskara\AbMaskara.cs" />
+    <Compile Include="Factory\Maskara\EsteeLauderM.cs" />
+    <Compile Include="Factory\Maskara\LimeCrimeM.cs" />
+    <Compile Include="Factory\Maskara\TooFacedM.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

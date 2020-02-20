@@ -31,5 +31,5 @@ namespace Adapter.Adapter
             aliens.Sign();
         }
 
-        }
     }
+}
